@@ -1,0 +1,692 @@
+model snapshot/2017-08-31_19-21-06/snapshot_steps100.pt
+Evaluation - loss: 0.692810  acc: 49.9176%(909/1821) 
+model_count 1 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps200.pt
+Evaluation - loss: 0.693463  acc: 49.9176%(909/1821) 
+model_count 2 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps300.pt
+Evaluation - loss: 0.690929  acc: 55.8484%(1017/1821) 
+model_count 3 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps400.pt
+Evaluation - loss: 0.691878  acc: 49.9176%(909/1821) 
+model_count 4 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps500.pt
+Evaluation - loss: 0.689630  acc: 49.9176%(909/1821) 
+model_count 5 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps600.pt
+Evaluation - loss: 0.685949  acc: 50.2471%(915/1821) 
+model_count 6 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps700.pt
+Evaluation - loss: 0.676938  acc: 65.6233%(1195/1821) 
+model_count 7 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps800.pt
+Evaluation - loss: 0.665958  acc: 70.7853%(1289/1821) 
+model_count 8 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps900.pt
+Evaluation - loss: 0.655656  acc: 74.7941%(1362/1821) 
+model_count 9 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps1000.pt
+Evaluation - loss: 0.646737  acc: 69.2477%(1261/1821) 
+model_count 10 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps1100.pt
+Evaluation - loss: 0.626587  acc: 75.5080%(1375/1821) 
+model_count 11 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps1200.pt
+Evaluation - loss: 0.620628  acc: 75.4530%(1374/1821) 
+model_count 12 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps1300.pt
+Evaluation - loss: 0.605976  acc: 71.8287%(1308/1821) 
+model_count 13 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps1400.pt
+Evaluation - loss: 0.590955  acc: 75.0686%(1367/1821) 
+model_count 14 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps1500.pt
+Evaluation - loss: 0.572876  acc: 77.3751%(1409/1821) 
+model_count 15 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps1600.pt
+Evaluation - loss: 0.563274  acc: 77.9791%(1420/1821) 
+model_count 16 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps1700.pt
+Evaluation - loss: 0.554053  acc: 77.4849%(1411/1821) 
+model_count 17 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps1800.pt
+Evaluation - loss: 0.535086  acc: 78.5283%(1430/1821) 
+model_count 18 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps1900.pt
+Evaluation - loss: 0.534173  acc: 75.9473%(1383/1821) 
+model_count 19 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps2000.pt
+Evaluation - loss: 0.521715  acc: 78.7479%(1434/1821) 
+model_count 20 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps2100.pt
+Evaluation - loss: 0.513728  acc: 79.9012%(1455/1821) 
+model_count 21 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps2200.pt
+Evaluation - loss: 0.498402  acc: 79.6815%(1451/1821) 
+model_count 22 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps2300.pt
+Evaluation - loss: 0.499205  acc: 79.0774%(1440/1821) 
+model_count 23 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps2400.pt
+Evaluation - loss: 0.486670  acc: 80.1757%(1460/1821) 
+model_count 24 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps2500.pt
+Evaluation - loss: 0.477902  acc: 80.8347%(1472/1821) 
+model_count 25 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps2600.pt
+Evaluation - loss: 0.483391  acc: 80.6150%(1468/1821) 
+model_count 26 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps2700.pt
+Evaluation - loss: 0.464591  acc: 80.6150%(1468/1821) 
+model_count 27 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps2800.pt
+Evaluation - loss: 0.465103  acc: 80.6700%(1469/1821) 
+model_count 28 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps2900.pt
+Evaluation - loss: 0.458884  acc: 81.4388%(1483/1821) 
+model_count 29 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps3000.pt
+Evaluation - loss: 0.450265  acc: 81.3839%(1482/1821) 
+model_count 30 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps3100.pt
+Evaluation - loss: 0.438303  acc: 81.6035%(1486/1821) 
+model_count 31 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps3200.pt
+Evaluation - loss: 0.435370  acc: 81.9330%(1492/1821) 
+model_count 32 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps3300.pt
+Evaluation - loss: 0.451002  acc: 79.7913%(1453/1821) 
+model_count 33 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps3400.pt
+Evaluation - loss: 0.424367  acc: 81.8232%(1490/1821) 
+model_count 34 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps3500.pt
+Evaluation - loss: 0.427272  acc: 81.9879%(1493/1821) 
+model_count 35 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps3600.pt
+Evaluation - loss: 0.416515  acc: 81.9879%(1493/1821) 
+model_count 36 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps3700.pt
+Evaluation - loss: 0.423685  acc: 80.9995%(1475/1821) 
+model_count 37 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps3800.pt
+Evaluation - loss: 0.415782  acc: 82.0977%(1495/1821) 
+model_count 38 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps3900.pt
+Evaluation - loss: 0.413208  acc: 82.3174%(1499/1821) 
+model_count 39 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps4000.pt
+Evaluation - loss: 0.423472  acc: 80.6150%(1468/1821) 
+model_count 40 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps4100.pt
+Evaluation - loss: 0.408860  acc: 81.7683%(1489/1821) 
+model_count 41 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps4200.pt
+Evaluation - loss: 0.403785  acc: 81.9879%(1493/1821) 
+model_count 42 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps4300.pt
+Evaluation - loss: 0.404841  acc: 82.6469%(1505/1821) 
+model_count 43 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps4400.pt
+Evaluation - loss: 0.400684  acc: 82.5920%(1504/1821) 
+model_count 44 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps4500.pt
+Evaluation - loss: 0.400023  acc: 82.2625%(1498/1821) 
+model_count 45 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps4600.pt
+Evaluation - loss: 0.401843  acc: 82.7018%(1506/1821) 
+model_count 46 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps4700.pt
+Evaluation - loss: 0.398408  acc: 81.6584%(1487/1821) 
+model_count 47 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps4800.pt
+Evaluation - loss: 0.388514  acc: 82.5920%(1504/1821) 
+model_count 48 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps4900.pt
+Evaluation - loss: 0.388805  acc: 82.1527%(1496/1821) 
+model_count 49 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps5000.pt
+Evaluation - loss: 0.390607  acc: 82.7018%(1506/1821) 
+model_count 50 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps5100.pt
+Evaluation - loss: 0.385360  acc: 82.7018%(1506/1821) 
+model_count 51 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps5200.pt
+Evaluation - loss: 0.393391  acc: 82.3723%(1500/1821) 
+model_count 52 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps5300.pt
+Evaluation - loss: 0.385517  acc: 82.6469%(1505/1821) 
+model_count 53 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps5400.pt
+Evaluation - loss: 0.385653  acc: 82.8666%(1509/1821) 
+model_count 54 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps5500.pt
+Evaluation - loss: 0.398166  acc: 82.7018%(1506/1821) 
+model_count 55 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps5600.pt
+Evaluation - loss: 0.384095  acc: 83.0313%(1512/1821) 
+model_count 56 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps5700.pt
+Evaluation - loss: 0.380845  acc: 83.0862%(1513/1821) 
+model_count 57 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps5800.pt
+Evaluation - loss: 0.384089  acc: 82.0977%(1495/1821) 
+model_count 58 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps5900.pt
+Evaluation - loss: 0.383972  acc: 83.1960%(1515/1821) 
+model_count 59 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps6000.pt
+Evaluation - loss: 0.379566  acc: 83.0862%(1513/1821) 
+model_count 60 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps6100.pt
+Evaluation - loss: 0.379567  acc: 83.3608%(1518/1821) 
+model_count 61 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps6200.pt
+Evaluation - loss: 0.377651  acc: 83.3059%(1517/1821) 
+model_count 62 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps6300.pt
+Evaluation - loss: 0.377763  acc: 83.1960%(1515/1821) 
+model_count 63 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps6400.pt
+Evaluation - loss: 0.381380  acc: 82.8666%(1509/1821) 
+model_count 64 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps6500.pt
+Evaluation - loss: 0.382295  acc: 82.6469%(1505/1821) 
+model_count 65 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps6600.pt
+Evaluation - loss: 0.378409  acc: 82.8666%(1509/1821) 
+model_count 66 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps6700.pt
+Evaluation - loss: 0.374799  acc: 83.2510%(1516/1821) 
+model_count 67 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps6800.pt
+Evaluation - loss: 0.378122  acc: 82.9215%(1510/1821) 
+model_count 68 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps6900.pt
+Evaluation - loss: 0.374414  acc: 83.0862%(1513/1821) 
+model_count 69 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps7000.pt
+Evaluation - loss: 0.381638  acc: 82.7567%(1507/1821) 
+model_count 70 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps7100.pt
+Evaluation - loss: 0.375289  acc: 83.4706%(1520/1821) 
+model_count 71 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps7200.pt
+Evaluation - loss: 0.375556  acc: 82.9215%(1510/1821) 
+model_count 72 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps7300.pt
+Evaluation - loss: 0.381280  acc: 82.9764%(1511/1821) 
+model_count 73 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps7400.pt
+Evaluation - loss: 0.374509  acc: 83.3608%(1518/1821) 
+model_count 74 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps7500.pt
+Evaluation - loss: 0.377940  acc: 83.0313%(1512/1821) 
+model_count 75 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps7600.pt
+Evaluation - loss: 0.379822  acc: 83.0313%(1512/1821) 
+model_count 76 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps7700.pt
+Evaluation - loss: 0.374823  acc: 83.6903%(1524/1821) 
+model_count 77 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps7800.pt
+Evaluation - loss: 0.373644  acc: 83.8001%(1526/1821) 
+model_count 78 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps7900.pt
+Evaluation - loss: 0.375363  acc: 83.5805%(1522/1821) 
+model_count 79 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps8000.pt
+Evaluation - loss: 0.377614  acc: 83.1960%(1515/1821) 
+model_count 80 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps8100.pt
+Evaluation - loss: 0.378373  acc: 83.5255%(1521/1821) 
+model_count 81 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps8200.pt
+Evaluation - loss: 0.379145  acc: 83.2510%(1516/1821) 
+model_count 82 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps8300.pt
+Evaluation - loss: 0.385904  acc: 83.0862%(1513/1821) 
+model_count 83 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps8400.pt
+Evaluation - loss: 0.378863  acc: 83.9099%(1528/1821) 
+model_count 84 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps8500.pt
+Evaluation - loss: 0.382117  acc: 83.4157%(1519/1821) 
+model_count 85 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps8600.pt
+Evaluation - loss: 0.380999  acc: 83.7452%(1525/1821) 
+model_count 86 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps8700.pt
+Evaluation - loss: 0.378976  acc: 84.2394%(1534/1821) 
+model_count 87 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps8800.pt
+Evaluation - loss: 0.380209  acc: 84.0747%(1531/1821) 
+model_count 88 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps8900.pt
+Evaluation - loss: 0.382614  acc: 83.9649%(1529/1821) 
+model_count 89 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps9000.pt
+Evaluation - loss: 0.389109  acc: 83.4157%(1519/1821) 
+model_count 90 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps9100.pt
+Evaluation - loss: 0.383685  acc: 83.8001%(1526/1821) 
+model_count 91 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps9200.pt
+Evaluation - loss: 0.384885  acc: 83.5255%(1521/1821) 
+model_count 92 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps9300.pt
+Evaluation - loss: 0.388406  acc: 83.6354%(1523/1821) 
+model_count 93 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps9400.pt
+Evaluation - loss: 0.382872  acc: 83.6903%(1524/1821) 
+model_count 94 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps9500.pt
+Evaluation - loss: 0.385443  acc: 83.8001%(1526/1821) 
+model_count 95 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps9600.pt
+Evaluation - loss: 0.399495  acc: 82.5371%(1503/1821) 
+model_count 96 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps9700.pt
+Evaluation - loss: 0.398664  acc: 82.9215%(1510/1821) 
+model_count 97 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps9800.pt
+Evaluation - loss: 0.388140  acc: 83.2510%(1516/1821) 
+model_count 98 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps9900.pt
+Evaluation - loss: 0.395078  acc: 82.8666%(1509/1821) 
+model_count 99 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps10000.pt
+Evaluation - loss: 0.392521  acc: 83.8550%(1527/1821) 
+model_count 100 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps10100.pt
+Evaluation - loss: 0.391754  acc: 83.8001%(1526/1821) 
+model_count 101 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps10200.pt
+Evaluation - loss: 0.387998  acc: 83.3608%(1518/1821) 
+model_count 102 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps10300.pt
+Evaluation - loss: 0.396051  acc: 83.7452%(1525/1821) 
+model_count 103 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps10400.pt
+Evaluation - loss: 0.390845  acc: 83.3059%(1517/1821) 
+model_count 104 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps10500.pt
+Evaluation - loss: 0.398385  acc: 83.4157%(1519/1821) 
+model_count 105 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps10600.pt
+Evaluation - loss: 0.398380  acc: 83.3608%(1518/1821) 
+model_count 106 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps10700.pt
+Evaluation - loss: 0.406802  acc: 83.2510%(1516/1821) 
+model_count 107 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps10800.pt
+Evaluation - loss: 0.397335  acc: 82.9764%(1511/1821) 
+model_count 108 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps10900.pt
+Evaluation - loss: 0.400989  acc: 83.6354%(1523/1821) 
+model_count 109 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps11000.pt
+Evaluation - loss: 0.406109  acc: 83.5255%(1521/1821) 
+model_count 110 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps11100.pt
+Evaluation - loss: 0.398084  acc: 83.4157%(1519/1821) 
+model_count 111 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps11200.pt
+Evaluation - loss: 0.398930  acc: 83.3608%(1518/1821) 
+model_count 112 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps11300.pt
+Evaluation - loss: 0.406468  acc: 83.1411%(1514/1821) 
+model_count 113 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps11400.pt
+Evaluation - loss: 0.413030  acc: 83.2510%(1516/1821) 
+model_count 114 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps11500.pt
+Evaluation - loss: 0.403969  acc: 83.0862%(1513/1821) 
+model_count 115 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps11600.pt
+Evaluation - loss: 0.427519  acc: 82.7567%(1507/1821) 
+model_count 116 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps11700.pt
+Evaluation - loss: 0.407123  acc: 83.2510%(1516/1821) 
+model_count 117 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps11800.pt
+Evaluation - loss: 0.413777  acc: 83.1960%(1515/1821) 
+model_count 118 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps11900.pt
+Evaluation - loss: 0.426110  acc: 82.4822%(1502/1821) 
+model_count 119 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps12000.pt
+Evaluation - loss: 0.418551  acc: 82.7567%(1507/1821) 
+model_count 120 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps12100.pt
+Evaluation - loss: 0.409213  acc: 82.7018%(1506/1821) 
+model_count 121 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps12200.pt
+Evaluation - loss: 0.427020  acc: 83.3608%(1518/1821) 
+model_count 122 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps12300.pt
+Evaluation - loss: 0.419521  acc: 83.3608%(1518/1821) 
+model_count 123 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps12400.pt
+Evaluation - loss: 0.426579  acc: 83.1411%(1514/1821) 
+model_count 124 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps12500.pt
+Evaluation - loss: 0.414745  acc: 83.1960%(1515/1821) 
+model_count 125 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps12600.pt
+Evaluation - loss: 0.424540  acc: 83.0862%(1513/1821) 
+model_count 126 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps12700.pt
+Evaluation - loss: 0.427250  acc: 83.0313%(1512/1821) 
+model_count 127 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps12800.pt
+Evaluation - loss: 0.418630  acc: 82.9215%(1510/1821) 
+model_count 128 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps12900.pt
+Evaluation - loss: 0.421568  acc: 82.9215%(1510/1821) 
+model_count 129 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps13000.pt
+Evaluation - loss: 0.430349  acc: 83.3608%(1518/1821) 
+model_count 130 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps13100.pt
+Evaluation - loss: 0.428117  acc: 83.4706%(1520/1821) 
+model_count 131 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps13200.pt
+Evaluation - loss: 0.431513  acc: 83.3608%(1518/1821) 
+model_count 132 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps13300.pt
+Evaluation - loss: 0.440303  acc: 82.8116%(1508/1821) 
+model_count 133 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps13400.pt
+Evaluation - loss: 0.442490  acc: 82.9764%(1511/1821) 
+model_count 134 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps13500.pt
+Evaluation - loss: 0.462381  acc: 81.7683%(1489/1821) 
+model_count 135 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps13600.pt
+Evaluation - loss: 0.430899  acc: 83.1411%(1514/1821) 
+model_count 136 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps13700.pt
+Evaluation - loss: 0.440424  acc: 82.9764%(1511/1821) 
+model_count 137 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps13800.pt
+Evaluation - loss: 0.452119  acc: 82.9215%(1510/1821) 
+model_count 138 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps13900.pt
+Evaluation - loss: 0.445195  acc: 82.9215%(1510/1821) 
+model_count 139 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps14000.pt
+Evaluation - loss: 0.439431  acc: 82.8666%(1509/1821) 
+model_count 140 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps14100.pt
+Evaluation - loss: 0.456032  acc: 82.0977%(1495/1821) 
+model_count 141 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps14200.pt
+Evaluation - loss: 0.444328  acc: 82.8116%(1508/1821) 
+model_count 142 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps14300.pt
+Evaluation - loss: 0.434174  acc: 82.5371%(1503/1821) 
+model_count 143 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps14400.pt
+Evaluation - loss: 0.454752  acc: 82.3723%(1500/1821) 
+model_count 144 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps14500.pt
+Evaluation - loss: 0.448077  acc: 82.4822%(1502/1821) 
+model_count 145 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps14600.pt
+Evaluation - loss: 0.464396  acc: 81.5486%(1485/1821) 
+model_count 146 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps14700.pt
+Evaluation - loss: 0.448531  acc: 82.6469%(1505/1821) 
+model_count 147 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps14800.pt
+Evaluation - loss: 0.461043  acc: 82.3723%(1500/1821) 
+model_count 148 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps14900.pt
+Evaluation - loss: 0.463000  acc: 82.2076%(1497/1821) 
+model_count 149 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps15000.pt
+Evaluation - loss: 0.472694  acc: 82.4272%(1501/1821) 
+model_count 150 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps15100.pt
+Evaluation - loss: 0.473137  acc: 82.2625%(1498/1821) 
+model_count 151 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps15200.pt
+Evaluation - loss: 0.461878  acc: 82.4822%(1502/1821) 
+model_count 152 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps15300.pt
+Evaluation - loss: 0.456587  acc: 82.7567%(1507/1821) 
+model_count 153 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps15400.pt
+Evaluation - loss: 0.451797  acc: 82.0977%(1495/1821) 
+model_count 154 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps15500.pt
+Evaluation - loss: 0.466040  acc: 82.7567%(1507/1821) 
+model_count 155 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps15600.pt
+Evaluation - loss: 0.477467  acc: 82.1527%(1496/1821) 
+model_count 156 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps15700.pt
+Evaluation - loss: 0.473861  acc: 82.5920%(1504/1821) 
+model_count 157 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps15800.pt
+Evaluation - loss: 0.459763  acc: 82.4822%(1502/1821) 
+model_count 158 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps15900.pt
+Evaluation - loss: 0.473070  acc: 82.2076%(1497/1821) 
+model_count 159 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps16000.pt
+Evaluation - loss: 0.475465  acc: 82.2076%(1497/1821) 
+model_count 160 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps16100.pt
+Evaluation - loss: 0.478970  acc: 82.1527%(1496/1821) 
+model_count 161 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps16200.pt
+Evaluation - loss: 0.479323  acc: 82.2625%(1498/1821) 
+model_count 162 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps16300.pt
+Evaluation - loss: 0.485933  acc: 81.5486%(1485/1821) 
+model_count 163 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps16400.pt
+Evaluation - loss: 0.477199  acc: 82.1527%(1496/1821) 
+model_count 164 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps16500.pt
+Evaluation - loss: 0.482361  acc: 82.4272%(1501/1821) 
+model_count 165 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps16600.pt
+Evaluation - loss: 0.492137  acc: 82.4272%(1501/1821) 
+model_count 166 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps16700.pt
+Evaluation - loss: 0.494687  acc: 82.2076%(1497/1821) 
+model_count 167 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps16800.pt
+Evaluation - loss: 0.507742  acc: 82.2625%(1498/1821) 
+model_count 168 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps16900.pt
+Evaluation - loss: 0.493010  acc: 82.3174%(1499/1821) 
+model_count 169 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps17000.pt
+Evaluation - loss: 0.500625  acc: 82.3174%(1499/1821) 
+model_count 170 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps17100.pt
+Evaluation - loss: 0.515718  acc: 81.3839%(1482/1821) 
+model_count 171 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps17200.pt
+Evaluation - loss: 0.516301  acc: 81.3289%(1481/1821) 
+model_count 172 
+
+model snapshot/2017-08-31_19-21-06/snapshot_steps17300.pt
+Evaluation - loss: 0.503545  acc: 81.5486%(1485/1821) 
+model_count 173 
+
